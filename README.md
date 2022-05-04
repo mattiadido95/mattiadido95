@@ -1,6 +1,6 @@
-![giphy](https://user-images.githubusercontent.com/81306847/166636048-9433eae1-f4d8-4460-924d-3a7c9d938c14.gif)
+
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/hacker-hack-hacking-4OAxDXv4RdUeg38JYi" width="auto"/>
+  <img src="https://user-images.githubusercontent.com/81306847/166636048-9433eae1-f4d8-4460-924d-3a7c9d938c14.gif" width="300"/>
 </div>
 
 
