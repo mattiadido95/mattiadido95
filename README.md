@@ -28,19 +28,19 @@
 
 
 <div style="display: grid;grid-template-columns: auto auto auto;">
-    <p style=" margin: 5px;">
+    <div style=" margin: 5px;">
         <img  src="https://github-readme-stats.vercel.app/api?username=mattiadido95&show_icons=true&locale=en" alt="mattiadido95" />
-    </p>
-    <p style=" margin: 5px;">
+    </div>
+    <div style=" margin: 5px;">
         <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mattiadido95&show_icons=true&locale=en&layout=compact" alt="mattiadido95" />
-    </p>
-     <p style=" margin: 5px;"> 
+    </div>
+     <div style=" margin: 5px;"> 
         <a href="https://leetcode.card.workers.dev/mattiadido95?theme=dark&font=baloo&extension=null">
             <img src="https://leetcode.card.workers.dev/mattiadido95?theme=dark&font=baloo&extension=null" alt="mattiadido95" />
         </a> 
-    </p>
-     <p style=" margin: 5px;">
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiadido95&" alt="mattiadido95" /></p>
+    </div>
+     <div style=" margin: 5px;">
+     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiadido95&" alt="mattiadido95" /></div>
 </div>
 
 
