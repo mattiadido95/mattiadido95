@@ -27,7 +27,7 @@
 <h1></h1>
 
 
-<table>
+<table style="border-collapse:collapse">
   <tr>
     <td valign="top"><img  src="https://github-readme-stats.vercel.app/api?username=mattiadido95&show_icons=true&locale=en" alt="mattiadido95" /></td>
     <td valign="top"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mattiadido95&show_icons=true&locale=en&layout=compact" alt="mattiadido95" /></td>
