@@ -38,8 +38,8 @@
             <img src="https://leetcode.card.workers.dev/mattiadido95?theme=dark&font=baloo&extension=null" alt="mattiadido95" />
         </a> 
     </p>
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiadido95&" alt="mattiadido95" /></p>
 </div>
-
 
 
 <div align="center">
@@ -49,3 +49,5 @@
         </a> 
     </p>
 </div>
+
+
