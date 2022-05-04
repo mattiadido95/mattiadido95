@@ -27,7 +27,7 @@
 <h1></h1>
 
 
-<div style="display: grid;grid-template-columns: auto auto auto;">
+<div>
     <div style=" margin: 5px;">
         <img  src="https://github-readme-stats.vercel.app/api?username=mattiadido95&show_icons=true&locale=en" alt="mattiadido95" />
     </div>
