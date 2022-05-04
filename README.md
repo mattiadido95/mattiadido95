@@ -27,21 +27,18 @@
 <h1></h1>
 
 
-<div align="center">
-    <div style=" margin: 5px;">
-        <img  src="https://github-readme-stats.vercel.app/api?username=mattiadido95&show_icons=true&locale=en" alt="mattiadido95" />
-    </div>
-    <div style=" margin: 5px;">
-        <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mattiadido95&show_icons=true&locale=en&layout=compact" alt="mattiadido95" />
-    </div>
-     <div style=" margin: 5px;"> 
-        <a href="https://leetcode.card.workers.dev/mattiadido95?theme=dark&font=baloo&extension=null">
+<table>
+  <tr>
+    <td valign="top"><img  src="https://github-readme-stats.vercel.app/api?username=mattiadido95&show_icons=true&locale=en" alt="mattiadido95" /></td>
+    <td valign="top"> <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mattiadido95&show_icons=true&locale=en&layout=compact" alt="mattiadido95" /></td>
+  </tr>
+   <tr>
+    <td valign="top">  <a href="https://leetcode.card.workers.dev/mattiadido95?theme=dark&font=baloo&extension=null">
             <img src="https://leetcode.card.workers.dev/mattiadido95?theme=dark&font=baloo&extension=null" alt="mattiadido95" />
-        </a> 
-    </div>
-     <div style=" margin: 5px;">
-     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiadido95&" alt="mattiadido95" /></div>
-</div>
+        </a> </td>
+    <td valign="top"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiadido95&" alt="mattiadido95" /></td>
+  </tr>
+</table>
 
 
 
