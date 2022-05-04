@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/hacker-hack-hacking-4OAxDXv4RdUeg38JYi" width="100"/>
+  <img src="https://giphy.com/gifs/hacker-hack-hacking-4OAxDXv4RdUeg38JYi" width="auto"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Mattia Di Donato</h1>
