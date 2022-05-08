@@ -38,12 +38,6 @@
         </a> </td>
     <td valign="center" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiadido95&" alt="mattiadido95" /></td>
   </tr>
-  <tr>
-    <td>
-      <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-    </td>
-  </tr>
 </table>
 
 
