@@ -39,14 +39,11 @@
         </a> </td>
     <td valign="center" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattiadido95&" alt="mattiadido95" /></td>
   </tr>
-  <tr>
-    <td valign="center" align="center">
-      <img src="https://myreadme.vercel.app/api/embed/mattiadido95?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-    </td>
-  </tr>
 </table>
 
-
+<div align="center">
+    <img src="https://myreadme.vercel.app/api/embed/mattiadido95?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</div>
 
 <div align="center">
     <p> 
